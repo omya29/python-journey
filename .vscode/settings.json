@@ -1,0 +1,12 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "github.copilot.inlineSuggest.enable": false,
+  "python.analysis.autoImportCompletions": false,
+  "editor.acceptSuggestionOnEnter": "off"
+}
